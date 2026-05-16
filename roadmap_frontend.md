@@ -17,7 +17,6 @@ Estimated total time: **9–14 months** at ~10–15 hours/week.
 ---
 
 ## Phase 1 — Foundations
-### Duration: 6–8 weeks
 ### Goal: Understand how the web works and build static pages confidently.
 
 ---
@@ -132,7 +131,6 @@ Estimated total time: **9–14 months** at ~10–15 hours/week.
 ---
 
 ## Phase 2 — Modern Tooling & React
-### Duration: 8–10 weeks
 ### Goal: Build dynamic, component-based applications with industry-standard tools.
 
 ---
@@ -271,7 +269,6 @@ Estimated total time: **9–14 months** at ~10–15 hours/week.
 ---
 
 ## Phase 3 — Professional Practices
-### Duration: 8–10 weeks
 ### Goal: Build production-quality apps that are performant, tested, and maintainable.
 
 ---
@@ -391,7 +388,6 @@ Estimated total time: **9–14 months** at ~10–15 hours/week.
 ---
 
 ## Phase 4 — Advanced & Architecture
-### Duration: 10–14 weeks
 ### Goal: Architect scalable applications, contribute to teams, and lead technical decisions.
 
 ---

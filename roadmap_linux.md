@@ -6,7 +6,7 @@
 ---
 
 ## 📍 Phase 0 — Environment Setup & Orientation
-**Duration:** 1–2 days | **Goal:** Have a working Linux environment and understand the landscape
+**Goal:** Have a working Linux environment and understand the landscape
 
 ### Choose Your Learning Environment
 
@@ -52,7 +52,7 @@ Linux
 ---
 
 ## 🟢 Phase 1 — Command Line Foundations
-**Duration:** 4–5 weeks | **Goal:** Navigate, manipulate, and understand a Linux system from the terminal
+**Goal:** Navigate, manipulate, and understand a Linux system from the terminal
 
 ### 1.1 The Shell & Terminal
 - What is a shell? Bash vs Zsh vs sh vs fish
@@ -195,7 +195,7 @@ Write a Bash script that generates a complete system inventory report saved to a
 ---
 
 ## 🟡 Phase 2 — Shell Scripting & Automation
-**Duration:** 5–6 weeks | **Goal:** Automate repetitive tasks and write production-quality shell scripts
+**Goal:** Automate repetitive tasks and write production-quality shell scripts
 
 ### 2.1 Bash Scripting Fundamentals
 - Shebang line: `#!/usr/bin/env bash`
@@ -291,7 +291,7 @@ Write a fully automated server provisioning script for a fresh Ubuntu server:
 ---
 
 ## 🟠 Phase 3 — System Administration
-**Duration:** 5–6 weeks | **Goal:** Administer, monitor, and troubleshoot Linux systems like a professional
+**Goal:** Administer, monitor, and troubleshoot Linux systems like a professional
 
 ### 3.1 Process Management
 - What is a process? PID, PPID, process states
@@ -435,7 +435,7 @@ Build a comprehensive server monitoring tool that runs as a systemd service:
 ---
 
 ## 🔴 Phase 4 — Networking, Security & Hardening
-**Duration:** 4–5 weeks | **Goal:** Secure and harden Linux systems; understand networking at depth
+**Goal:** Secure and harden Linux systems; understand networking at depth
 
 ### 4.1 Networking Deep Dive
 - TCP/IP model layers and how they map to Linux tools
@@ -538,7 +538,7 @@ Build and document a production-hardened bastion (jump) host from a fresh Ubuntu
 ---
 
 ## 🔵 Phase 5 — Advanced Topics
-**Duration:** 6–8 weeks | **Goal:** Master internals, performance, and modern infrastructure tooling
+**Goal:** Master internals, performance, and modern infrastructure tooling
 
 ### 5.1 Linux Kernel & Internals
 - Kernel space vs user space

@@ -6,7 +6,7 @@
 ---
 
 ## 📍 Phase 0 — Environment Setup & Orientation
-**Duration:** 1–2 days | **Goal:** Have a working SQL environment and understand the landscape
+**Goal:** Have a working SQL environment and understand the landscape
 
 ### Choose Your Learning Database
 Install at least one. SQLite for zero-friction start; PostgreSQL for industry depth.
@@ -34,7 +34,7 @@ Install at least one. SQLite for zero-friction start; PostgreSQL for industry de
 ---
 
 ## 🟢 Phase 1 — SQL Foundations
-**Duration:** 3–4 weeks | **Goal:** Query and manipulate data confidently in any database
+**Goal:** Query and manipulate data confidently in any database
 
 ### 1.1 Database & Table Basics
 - Creating a database and connecting to it
@@ -106,7 +106,7 @@ Design a small `sales` database from scratch (products, customers, orders, order
 ---
 
 ## 🟡 Phase 2 — Joins, Relationships & Schema Design
-**Duration:** 4–5 weeks | **Goal:** Work with multi-table databases and design schemas professionally
+**Goal:** Work with multi-table databases and design schemas professionally
 
 ### 2.1 Relational Thinking & Keys
 - Primary keys (`PRIMARY KEY`) — uniquely identifying rows
@@ -174,7 +174,7 @@ Design a complete e-commerce database (users, addresses, products, categories, o
 ---
 
 ## 🟠 Phase 3 — Advanced Querying
-**Duration:** 5–6 weeks | **Goal:** Write expert-level queries using modern SQL features
+**Goal:** Write expert-level queries using modern SQL features
 
 ### 3.1 Window Functions
 Window functions are the single most impactful advanced SQL skill for analytics and reporting.
@@ -263,7 +263,7 @@ Using a real public dataset (e.g., NYC Taxi data, Stack Overflow data dump, or A
 ---
 
 ## 🔴 Phase 4 — Performance, Indexing & Query Optimization
-**Duration:** 4–5 weeks | **Goal:** Write queries that perform at scale; understand and fix slow queries
+**Goal:** Write queries that perform at scale; understand and fix slow queries
 
 ### 4.1 How Databases Execute Queries
 - The query planner / optimizer — what it does
@@ -337,7 +337,7 @@ Take the e-commerce database from Phase 2 and scale it to 5M+ rows using a data 
 ---
 
 ## 🔵 Phase 5 — Database Administration Essentials for Developers
-**Duration:** 3–4 weeks | **Goal:** Operate, secure, and maintain a production database
+**Goal:** Operate, secure, and maintain a production database
 
 ### 5.1 Users, Roles & Security
 - Creating users and roles: `CREATE USER`, `CREATE ROLE`
@@ -386,7 +386,7 @@ Take the e-commerce database from Phase 2 and scale it to 5M+ rows using a data 
 ---
 
 ## 🟣 Phase 6 — Specialized Tracks
-**Duration:** 4–6 weeks | **Choose based on your target role**
+**Choose based on your target role**
 
 ---
 

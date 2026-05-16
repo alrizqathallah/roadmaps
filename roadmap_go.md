@@ -62,7 +62,6 @@ go mod       # module management
 ---
 
 ## Phase 1 — Go Fundamentals
-### Duration: 6–8 weeks
 ### Goal: Write idiomatic Go confidently. Understand the language's design philosophy and how it differs from other languages.
 
 ---
@@ -234,7 +233,6 @@ go mod       # module management
 ---
 
 ## Phase 2 — Concurrency
-### Duration: 6–8 weeks
 ### Goal: Write correct, efficient concurrent Go. Understand Go's concurrency model deeply enough to avoid the common mistakes that appear in production.
 
 ---
@@ -379,7 +377,6 @@ go mod       # module management
 ---
 
 ## Phase 3 — Standard Library & Idiomatic Go
-### Duration: 6–8 weeks
 ### Goal: Use Go's standard library as a force multiplier. Write idiomatic, maintainable Go that experienced engineers respect.
 
 ---
@@ -528,7 +525,6 @@ go mod       # module management
 ---
 
 ## Phase 4 — Backend Engineering with Go
-### Duration: 8–10 weeks
 ### Goal: Build production-grade HTTP APIs, interact with databases, and design systems that teams can maintain and operate.
 
 ---
@@ -693,7 +689,6 @@ Three services communicating via gRPC (internal) and exposing REST (external):
 ---
 
 ## Phase 5 — Systems, Performance & Advanced Topics
-### Duration: 6–8 weeks
 ### Goal: Understand Go deeply. Write code that performs well under load, operates safely in production, and scales with your organization.
 
 ---

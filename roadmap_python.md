@@ -6,7 +6,7 @@
 ---
 
 ## 📍 Phase 0 — Environment Setup & Orientation
-**Duration:** 1–2 days | **Goal:** Get a working environment and understand the Python ecosystem
+**Goal:** Get a working environment and understand the Python ecosystem
 
 ### Setup Checklist
 - Install Python 3.12+ from [python.org](https://python.org)
@@ -24,7 +24,7 @@
 ---
 
 ## 🟢 Phase 1 — Python Fundamentals
-**Duration:** 3–5 weeks | **Goal:** Write correct, readable Python from scratch
+**Goal:** Write correct, readable Python from scratch
 
 ### 1.1 Core Syntax & Data Types
 - Variables and assignment
@@ -78,7 +78,7 @@ Build a command-line contact manager using a `dict` of dicts. Features:
 ---
 
 ## 🟡 Phase 2 — Intermediate Python
-**Duration:** 5–7 weeks | **Goal:** Write modular, organized, Pythonic code
+**Goal:** Write modular, organized, Pythonic code
 
 ### 2.1 Object-Oriented Programming (OOP)
 - Classes and instances
@@ -152,7 +152,7 @@ Load a real-world CSV dataset (e.g., sales data, weather, or employee records). 
 ---
 
 ## 🟠 Phase 3 — Professional Python Practices
-**Duration:** 4–6 weeks | **Goal:** Write production-quality, maintainable code like a professional
+**Goal:** Write production-quality, maintainable code like a professional
 
 ### 3.1 Testing
 - Why testing matters in industry
@@ -215,7 +215,7 @@ Build a JSON-based REST-like task manager using only Python's `http.server`:
 ---
 
 ## 🔴 Phase 4 — Specialized Tracks
-**Duration:** 6–10 weeks | **Choose your path based on your target industry role**
+**Choose your path based on your target industry role**
 
 > ⚠️ Pick **one primary track** to focus on. Explore others after. Each track concludes with a capstone project.
 
@@ -335,7 +335,7 @@ A CLI toolkit for automating common developer operations:
 ---
 
 ## 🔵 Phase 5 — Advanced Python Internals
-**Duration:** 4–6 weeks | **Goal:** Understand Python deeply and write high-performance code
+**Goal:** Understand Python deeply and write high-performance code
 
 ### 5.1 Concurrency & Parallelism
 - The GIL (Global Interpreter Lock) — what it is and what it means

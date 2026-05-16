@@ -28,7 +28,6 @@ If not, spend 3–4 weeks on JavaScript fundamentals first (see [javascript.info
 ---
 
 ## Phase 1 — Node.js & JavaScript Foundations
-### Duration: 6–8 weeks
 ### Goal: Understand Node.js deeply, how it differs from browser JS, and how to write solid server-side JavaScript.
 
 ---
@@ -123,7 +122,6 @@ If not, spend 3–4 weeks on JavaScript fundamentals first (see [javascript.info
 ---
 
 ## Phase 2 — HTTP, APIs & Databases
-### Duration: 8–10 weeks
 ### Goal: Build production-quality REST APIs connected to real databases, with proper validation, error handling, and authentication.
 
 ---
@@ -280,7 +278,6 @@ If not, spend 3–4 weeks on JavaScript fundamentals first (see [javascript.info
 ---
 
 ## Phase 3 — Professional Backend Practices
-### Duration: 8–10 weeks
 ### Goal: Write backend code that is maintainable, testable, observable, and deployable in real teams.
 
 ---
@@ -416,7 +413,6 @@ If not, spend 3–4 weeks on JavaScript fundamentals first (see [javascript.info
 ---
 
 ## Phase 4 — Distributed Systems & Scalability
-### Duration: 8–10 weeks
 ### Goal: Design and build systems that handle real production scale, failures, and complexity.
 
 ---
@@ -543,7 +539,6 @@ If not, spend 3–4 weeks on JavaScript fundamentals first (see [javascript.info
 ---
 
 ## Phase 5 — Security, Performance & Senior-Level Practices
-### Duration: 6–8 weeks
 ### Goal: Build systems that are secure by design, performant under load, and maintainable by teams.
 
 ---
